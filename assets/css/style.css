@@ -125,10 +125,10 @@ header{
 
 }
 
-/*sty;ing for navigation in header*/
+/*styling for navigation in header*/
 nav{
 
-    padding:  33px;
+    padding-top:  33px;
    left: 980px;
   top: -140px;
   width: 300px;
@@ -676,6 +676,7 @@ width: 218px;
   /* Positioning */
   float: left;
 
+
   /* Visual */
  border: 10px;
  border-color: #fff;
@@ -690,6 +691,7 @@ width: 218px;
 
 p{
 	font-size: 18px;
+
 }
 
 
@@ -739,11 +741,7 @@ width: 100%;
 
    }
 
-.main_content_box{
 
-	width: 680px;
-	margin-left: 20px;
-}
 
  aside {
 
@@ -761,6 +759,7 @@ width: 100%;
 
 p{
 	font-size: 18px;
+	padding-right: 15px;
 }
 
 
@@ -792,20 +791,6 @@ h1{
 }
 
 
-/* Main content box */
-.main_content_box{
-
-    color:#ccc;
-	background-color: #fff;
-	margin: auto;
-	width: 100%;
-	height: auto;
-	margin-bottom: 30px;
-	border: 1px solid #ddd;
-	padding-bottom: 15px;
-
-
-}
 
 /*Holds content within main content box*/
 
@@ -836,30 +821,26 @@ padding: 0px;
   /* Visual */
  border: 10px;
  border-color: #fff;
- margin-left:  2px;
- width: 98%;
+ margin-left:  2%;
+ width: 94%;
  margin-bottom: 30px;
 
 }
 
-header{
-
-text-align: center;
-
-  }
 
   	nav{
-width: 100%;
-  top: -90px;
-  width: 100%;
+
+
+    width: 100%;
+    top: -90px;
   	font-size: 18px;
 	font-weight: lighter;
 	color: #ccc;
 	font-family:'Georgia', Times, Times New Roman, serif;
 	text-decoration: none;
 	position: relative;
-	
-	left: -10px; 
+	margin: auto;
+	left: -50px; 
 
 
 }
@@ -883,8 +864,53 @@ width: 100%;
 	
 }
 
+header{
+
+text-align: center;
+color: #777;
+	padding-top: 30px;
+	padding-bottom: 15px;
+	background-color: #fff;
+    margin-left: -10px;
+    margin-right: -10px;
+	margin-top:-10px;
+	margin-bottom: 20px;
+	height: 60px;
+	width: 120%;
+	border-bottom: solid #ccc;
+
+  }
 
 
+footer{
+    color: #fff;
+	padding-top: 15px;
+	padding-bottom: 33px;
+	background-color: #666666;
+	width: 120%;
+	clear : both;
+	border-top-style: solid;
+	border-width: 10px;
+	border-top-color: #4aaaa5;
+	position:relative;
+   margin-left: -10%;
+    float: bottom;
+}
+
+.main_content_box{
+
+    color:#ccc;
+	background-color: #fff;
+	margin-left: 2%;	
+	margin-right: 20px;
+	margin-bottom: 30px;
+	width: 95%;
+	height: auto;
+	border: 1px solid #ddd;
+	padding-bottom: 15px;
+
+
+}
 }
 
 
