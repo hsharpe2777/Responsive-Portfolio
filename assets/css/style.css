@@ -820,8 +820,8 @@ padding: 0px;
   /* Visual */
  border: 10px;
  border-color: #fff;
- margin-left:  21%;
- width: 99%;
+ margin-left:  10%;
+ width: 123%;
  margin-bottom: 30px;
 
 }
@@ -892,7 +892,7 @@ footer{
 	border-width: 10px;
 	border-top-color: #4aaaa5;
 	position:relative;
-	padding-right: 20%;
+	padding-right: 40%;
    margin-left: -10%;
     float: bottom;
 }
@@ -901,9 +901,9 @@ footer{
 
     color:#ccc;
 	background-color: #fff;
-	margin-left: 24%;	
+	margin-left: 10%;	
 	margin-bottom: 30px;
-	width: 100%;
+	width: 125%;
 	height: auto;
 	border: 1px solid #ddd;
 	padding-bottom: 15px;
