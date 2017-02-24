@@ -126,19 +126,20 @@ header{
 }
 
 /*styling for navigation in header*/
-nav{
-
-    padding-top:  33px;
-   left: 980px;
-  top: -140px;
-  width: 300px;
+	nav{
+    width: 100%;
+    padding-left:  40%;
+    padding-top: 25px;
+    left: 550px;
+    top: -140px;
+    width: 300px;
   	font-size: 18px;
 	font-weight: lighter;
 	color: #ccc;
 	font-family:'Georgia', Times, Times New Roman, serif;
 	text-decoration: none;
 	position: relative;
-
+	margin-right: 20px;
 
 }
 
@@ -848,9 +849,9 @@ padding: 0px;
 /*project images on right side of container*/
 .image_box_right{
     margin-top: 10px;
-	margin-right: 20px;
+	margin-right: 10px;
 	margin-bottom: -50px;
-	float: right;
+	float: none;
 	
 }
 
@@ -859,7 +860,7 @@ padding: 0px;
     margin-top: 10px;
 	margin-right: 20px;
 	margin-bottom: -50px;
-	float: right;
+	float: none;
 	
 }
 
