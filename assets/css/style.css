@@ -802,16 +802,14 @@ padding: 0px;
 }
 
 
-.pic_of_me{
-
-
-	width:310px;
-	height:250px;
-	padding-left: 30px;
-	padding-top: 20px;
-	padding-bottom: 20px;
-
+.pic_of_me {
+    width: 90%;
+    height: 100%;
+    padding-left: 5%;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
+
 
  aside {
 
@@ -901,10 +899,9 @@ footer{
 
     color:#ccc;
 	background-color: #fff;
-	margin-left: 2%;	
-	margin-right: 20px;
+	margin-left: 10%;	
 	margin-bottom: 30px;
-	width: 95%;
+	width: 100%;
 	height: auto;
 	border: 1px solid #ddd;
 	padding-bottom: 15px;
