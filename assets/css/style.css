@@ -712,7 +712,7 @@ font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 
 .main_content_box{
 
-	width: 680px;
+	width: 93%;
 	margin-left: 20px;
 }
 
@@ -746,7 +746,7 @@ width: 218px;
  border: 10px;
  border-color: #fff;
  margin-left:  20px;
- width: 93%;
+ width: 92%;
  margin-bottom: 30px;
 
 }
