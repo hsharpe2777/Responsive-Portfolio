@@ -701,7 +701,7 @@ img {
   is either 680px or less.
 */
     .pic_of_me {
-        width: 90%;
+        width: 85%;
         height: 100%;
         padding-left: 5%;
         padding-top: 20px;
@@ -807,7 +807,7 @@ img {
         background-color: #fff;
         margin-left: 17%;
         margin-bottom: 30px;
-        width: 130%;
+        width: 670px;
         height: auto;
         border: 1px solid #ddd;
         padding-bottom: 15px;

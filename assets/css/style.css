@@ -816,7 +816,7 @@ img {
   is either 680px or less.
 */
     p {
-        font-size: 18px;
+        font-size: 20px;
         padding-right: 15px;
     }
     /* 
@@ -824,7 +824,7 @@ img {
   is either 680px or less.
 */
     .article_box2 {
-        width: 600px;
+        width: 680px;
     }
     /* 
   These rules take effect when the browser's width
@@ -855,9 +855,9 @@ img {
   is either 680px or less.
 */
     .pic_of_me {
-        width: 90%;
-        height: 100%;
-        padding-left: 5%;
+        width: 95%;
+        height: 105%;
+        padding-left: 1%;
         padding-top: 20px;
         padding-bottom: 20px;
     }
